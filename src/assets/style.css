@@ -1,0 +1,12 @@
+.containerColor {
+    height: '100vh';
+    min-height : '100vh';
+   background-color: blue;
+  }
+  .rowC{display:flex; 
+    flex-direction:row; 
+    align-items: center;
+    justify-content: space-between;
+    margin: 5;
+    flex: 100%;
+}
